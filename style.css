@@ -2,9 +2,9 @@ html {
     background-color: rgb(191, 223, 255);
 }
 
-.column {
-  flex: 30%;
-  padding: 5px;
+.profileImg {
+    width: 200px;
+    height: 100px;
 }
 
 .column img {
@@ -12,15 +12,16 @@ html {
     height: auto; 
 } 
 
+.column {
+  flex: 30%;
+  padding: 5px;
+}
+
+
 .container {
     display: flex;
     text-align: center;
     height: 200px;
-}
-
-.profileImg {
-    width: 200px;
-    height: 100px;
 }
 
 
