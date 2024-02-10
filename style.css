@@ -7,9 +7,9 @@ html {
   padding: 5px;
 }
 
-.column img{
-  max-width: 100%;
-  height: auto;
+.column img {
+    height: 50px;
+    width: auto;
 }
 
 .container {
@@ -18,8 +18,4 @@ html {
     height: 200px;
 }
 
-.img {
-    width: 100px;
-    height: 100px;
-}
 
