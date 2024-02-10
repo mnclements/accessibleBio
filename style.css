@@ -1,13 +1,22 @@
 html {
     background-color: rgb(191, 223, 255);
+    font-size: 12px;
+}
+
+h1 {
+  color: rgb(0, 0, 0); 
+}
+
+h2 {
+  color: rgb(0, 0, 0); 
 }
 
 .profileImg {
-    width: 200px;
     height: 100px;
 }
 
-.column img {
+
+/* .column img {
     max-width: 100%;
     height: auto; 
 } 
@@ -17,11 +26,10 @@ html {
   padding: 5px;
 }
 
-
 .container {
     display: flex;
     text-align: center;
     height: 200px;
-}
+} */
 
 
