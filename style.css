@@ -8,7 +8,7 @@ html {
 }
 
 .column img {
-    height: 50px;
+    height: auto;
     width: auto;
 }
 
@@ -19,8 +19,8 @@ html {
 }
 
 .profileImg {
-    height: 50px;
-    width: auto;
+    width: 50%;
+    height: auto;
 }
 
 
