@@ -7,10 +7,10 @@ html {
   padding: 5px;
 }
 
-/* .column img {
-    height: auto;
+.column img {
+    height: 200px;
     width: auto;
-} */
+} 
 
 .container {
     display: flex;
