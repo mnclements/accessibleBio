@@ -1,14 +1,16 @@
 html {
     background-color: rgb(191, 223, 255);
-    font-size: 12px;
+    font-size: 18px;
 }
 
 h1 {
   color: rgb(0, 0, 0); 
+  font-size: 30px;
 }
 
 h2 {
   color: rgb(0, 0, 0); 
+  font-size: 26px;
 }
 
 .profileImg img {
