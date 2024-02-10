@@ -15,7 +15,7 @@ html {
 .images {
     display: flex;
     text-align: center;
-    height: 200px;
+/*     height: 200px; */
 }
 
 .profileImg {
