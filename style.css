@@ -15,3 +15,15 @@ html {
 .img {
   width: 100%;
 }
+
+.header img {
+  float: right;
+  width: 100px;
+  height: 100px;
+}
+
+.header h1 {
+  position: relative;
+  top: 20px;
+  left: 20px;
+}
