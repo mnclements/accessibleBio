@@ -7,9 +7,15 @@ html {
   padding: 5px;
 }
 
+.column img{
+  max-width: 100%;
+  height: auto;
+}
+
 .container {
-  display: flex;
-  text-align: center;
+    display: flex;
+    text-align: center;
+    height: 200px;
 }
 
 .img {
@@ -17,6 +23,3 @@ html {
     height: 100px;
 }
 
-.profileImg {
-    width: 25%;
-}
