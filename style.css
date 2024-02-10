@@ -8,8 +8,8 @@ html {
 }
 
 .column img {
-    max-height: 200px!;
-    width: auto;
+    max-width: 100%;
+    height: auto; 
 } 
 
 .container {
