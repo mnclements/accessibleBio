@@ -5,6 +5,7 @@
 
 .container {
   display: flex;
+  text-align: center;
 }
 
 .img {
