@@ -16,7 +16,7 @@ h2 {
 }
 
 
-/* .column img {
+.column img {
     max-width: 100%;
     height: auto; 
 } 
@@ -30,6 +30,6 @@ h2 {
     display: flex;
     text-align: center;
     height: 200px;
-} */
+}
 
 
